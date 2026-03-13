@@ -2,15 +2,17 @@
 Smart Bin for Automatic Dry–Wet Waste Segregation using Arduino, ultrasonic sensor, moisture sensor, and servo motor for automated waste management.
 Smart-Bin-Dry-Wet-Waste-Segregation
 
-#requirements.txt
-Arduino IDE
-Arduino UNO
-Servo Motor (SG90)
-Ultrasonic Sensor (HC-SR04)
-Soil Moisture Sensor
-Jumper Wires
-Breadboard
-USB Cable
+Software:
+- Arduino IDE
+
+Hardware:
+- Arduino UNO
+- Ultrasonic Sensor (HC-SR04)
+- Soil Moisture Sensor
+- Servo Motor (SG90)
+- Breadboard
+- Jumper Wires
+- USB Cable
 
 # Setup Instructions
 1. Install Arduino IDE on your computer.
